@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm JJ
 
-Former software professional with autism.  
-Now doing things as a hobby.
+Former software professional with *autism*.  
+Now doing things as a *hobby*.
 
 - 🔭 I’m currently working on [Circular Language Spec](https://jjvanzon.github.io/Circular-Language-Spec/)
 - 🌱 I’m currently learning: __GitHub Pages__, improving my [piano playing](https://jjvanzon.github.io/Piano-Playing-Docs/)
