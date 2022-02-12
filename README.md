@@ -4,7 +4,7 @@ Former software professional with *autism*.
 Now doing things as a *hobby*.
 
 - 🔭 I’m currently working on [Circular Language Spec](https://jjvanzon.github.io/Circular-Language-Spec/)
-- 🌱 I’m currently learning: GitHub Pages | Technical Writing | [piano playing](https://jjvanzon.github.io/Piano-Playing-Docs/)
+- 🌱 I’m currently learning: GitHub Pages | Technical Writing | [Piano Playing](https://jjvanzon.github.io/Piano-Playing-Docs/)
 - 📫 How to reach me: [Twitter](https://twitter.com/devjj79) [LinkedIn](https://www.linkedin.com/in/jj-van-zon-04b80a18/) [Instagram](https://www.instagram.com/jjvanzon79/) [Pinterest](https://nl.pinterest.com/jjvanzon/) jjvanzon79@gmail.com
 
 #### Projects
