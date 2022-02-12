@@ -27,7 +27,9 @@ Now doing things as a *hobby*.
 - [🎹 Piano Playing](https://jjvanzon.github.io/Piano-Playing-Docs/)
     - Rediscovering my piano hobby. Sharing what I can about it. [Web Site](https://jjvanzon.github.io/Piano-Playing-Docs/) | [GitHub](https://github.com/jjvanzon/Piano-Playing-Docs)
 
-### Languages & Tools
+### Languages & tools:
+
+I used to be pretty good with ***Software Architecture*** and ***Back-End***. Did ***Front-End*** a little bit too, but nothing fancy.
 
 <p align="left">
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
@@ -39,10 +41,6 @@ Now doing things as a *hobby*.
 
 [![Build Status](https://dev.azure.com/jjvanzon/JJs-Software/_apis/build/status/JJ.Framework%20Build?branchName=jj-framework-text-tests)](https://dev.azure.com/jjvanzon/JJs-Software/_build/latest?definitionId=26&branchName=jj-framework-text-tests)
 
-***Software Architecture*** and  
-***Back-End*** mostly  
-***Front-End*** a little  
-
-### Contribution Stats
+### Contribution stats:
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jjvanzon&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
