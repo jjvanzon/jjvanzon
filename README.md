@@ -14,7 +14,7 @@ Now doing things as a *hobby*.
 <a href="https://twitter.com/@devjj79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@devjj79" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jj-van-zon-04b80a18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jj-van-zon-04b80a18" height="30" width="40" /></a>
 <a href="https://instagram.com/jjvanzon79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jjvanzon79" height="30" width="40" /></a>
-<a href="https://nl.pinterest.com/jjvanzon/" target="blank"><img align="center" src="//assets.pinterest.com/images/pidgets/pinit_fg_en_round_red_32.png" alt="jjvanzon" height="34" width="34" /></a>
+<a href="https://nl.pinterest.com/jjvanzon/" target="blank"><img align="center" src="https://assets.pinterest.com/images/pidgets/pinit_fg_en_round_red_32.png" alt="jjvanzon" height="34" width="34" /></a>
 <a href="https://fb.com/janjoost.vanzon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="janjoost.vanzon" height="30" width="40" /></a>
 </p>
 
