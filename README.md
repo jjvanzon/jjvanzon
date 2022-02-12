@@ -1,6 +1,9 @@
 Hi there 👋, I'm JJ
 ====================
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jjvanzon&title=Commits,Repositories,MultiLanguage&theme=gruvbox" alt="jjvanzon" /></a> </p>
+
+
 Former software professional with *autism*.  
 Now doing things as a *hobby*.
 
