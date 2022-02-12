@@ -3,7 +3,7 @@
 Former software professional with *autism*.  
 Now doing things as a *hobby*.
 
-- 🔭 I’m currently working on <a target="_blank" href="https://jjvanzon.github.io/Circular-Language-Spec/">Circular Language Spec</a>
+- 🔭 I’m currently working on <a target="_blank" rel="noopener noreferrer" href="https://jjvanzon.github.io/Circular-Language-Spec/">Circular Language Spec</a>
 - 🌱 I’m currently learning: GitHub Pages | Technical Writing | <a target="_blank" href="https://jjvanzon.github.io/Piano-Playing-Docs/">Piano Playing</a>
 - 📫 How to reach me: <a target="_blank" href="https://twitter.com/devjj79">Twitter</a> <a target="_blank" href="https://www.linkedin.com/in/jj-van-zon-04b80a18/">LinkedIn</a> <a target="_blank" href="https://www.instagram.com/jjvanzon79/">Instagram</a> <a target="_blank" href="https://nl.pinterest.com/jjvanzon/">Pinterest</a> jjvanzon79@gmail.com
 
