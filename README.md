@@ -24,6 +24,12 @@ Now doing things as a *hobby*.
 - [🎹 Piano Playing](https://jjvanzon.github.io/Piano-Playing-Docs/)
     - Rediscovering my piano hobby. Sharing what I can about it. [Web Site](https://jjvanzon.github.io/Piano-Playing-Docs/) | [GitHub](https://github.com/jjvanzon/Piano-Playing-Docs)
 
+### Article Selection
+
+- [Circular Language Spec | Introduction](https://jjvanzon.github.io/Circular-Language-Spec/spec/introduction.html)
+- [Circular Language Spec | Classes](https://jjvanzon.github.io/Circular-Language-Spec/spec/classes.html)
+- [Piano Playing | Goals](https://jjvanzon.github.io/Piano-Playing-Docs/goals.html)
+
 ### Languages & Tools
 
 I used to be pretty good with ***Software Architecture*** and ***Back-End***.  
