@@ -26,8 +26,7 @@ Now doing things as a *hobby*.
 
 ### Articles
 
-- [Circular Language Spec | Introduction](https://jjvanzon.github.io/Circular-Language-Spec/spec/
-introduction.html)
+- [Circular Language Spec | Introduction](https://jjvanzon.github.io/Circular-Language-Spec/spec/introduction.html)
 
     - This articles introduces the basics of the Circular language. Circular language is an idea for a computer programming language, mostly a diagram notation for visualizing computer code.
 
