@@ -8,15 +8,13 @@ Now doing things as a *hobby*.
 - 🌱 I’m currently learning: GitHub Pages | Technical Writing | [Piano Playing](https://jjvanzon.github.io/Piano-Playing-Docs/)
 - 📫 How to reach me: jjvanzon79@gmail.com
 
-### Connect with me:
-
-<p align="left">
-<a href="https://twitter.com/@devjj79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@devjj79" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jj-van-zon-04b80a18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jj-van-zon-04b80a18" height="30" width="40" /></a>
-<a href="https://instagram.com/jjvanzon79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jjvanzon79" height="30" width="40" /></a>
-<a href="https://nl.pinterest.com/jjvanzon/" target="blank"><img align="center" src="https://assets.pinterest.com/images/pidgets/pinit_fg_en_round_red_32.png" alt="jjvanzon" height="34" width="34" /></a>
-<a href="https://fb.com/janjoost.vanzon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="janjoost.vanzon" height="30" width="40" /></a>
-</p>
+    <p align="left">
+    <a href="https://twitter.com/@devjj79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@devjj79" height="30" width="40" /></a>
+    <a href="https://linkedin.com/in/jj-van-zon-04b80a18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jj-van-zon-04b80a18" height="30" width="40" /></a>
+    <a href="https://instagram.com/jjvanzon79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jjvanzon79" height="30" width="40" /></a>
+    <a href="https://nl.pinterest.com/jjvanzon/" target="blank"><img align="center" src="https://assets.pinterest.com/images/pidgets/pinit_fg_en_round_red_32.png" alt="jjvanzon" height="34" width="34" /></a>
+    <a href="https://fb.com/janjoost.vanzon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="janjoost.vanzon" height="30" width="40" /></a>
+    </p>
 
 ### Projects
 
@@ -27,7 +25,7 @@ Now doing things as a *hobby*.
 - [🎹 Piano Playing](https://jjvanzon.github.io/Piano-Playing-Docs/)
     - Rediscovering my piano hobby. Sharing what I can about it. [Web Site](https://jjvanzon.github.io/Piano-Playing-Docs/) | [GitHub](https://github.com/jjvanzon/Piano-Playing-Docs)
 
-### Languages & tools:
+### Languages & Tools
 
 I used to be pretty good with ***Software Architecture*** and ***Back-End***.  
 Did ***Front-End*** a little bit too, but nothing fancy.
@@ -42,6 +40,6 @@ Did ***Front-End*** a little bit too, but nothing fancy.
 
 [![Build Status](https://dev.azure.com/jjvanzon/JJs-Software/_apis/build/status/JJ.Framework%20Build?branchName=jj-framework-text-tests)](https://dev.azure.com/jjvanzon/JJs-Software/_build/latest?definitionId=26&branchName=jj-framework-text-tests)
 
-### Contribution stats:
+### Contribution Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jjvanzon&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
