@@ -18,6 +18,15 @@ Now doing things as a *hobby*.
 <a href="https://fb.com/janjoost.vanzon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="janjoost.vanzon" height="30" width="40" /></a>
 </p>
 
+### Projects
+
+- [🔵 Circular Language Spec 🔶](https://jjvanzon.github.io/Circular-Language-Spec/)
+    - Have been walking around for a while with an idea for a *visual programming language* made from *shapes and lines*. [Web Site](https://jjvanzon.github.io/Circular-Language-Spec/) | [GitHub](https://github.com/jjvanzon/Circular-Language-Spec)
+- [🔩 JJ.Framework](https://www.nuget.org/profiles/jjvanzon)
+    - *Extensions* for the *.NET Framework*. Some of these things you might expect in the .NET Framework, but were missing there, so I programmed my own. [NuGet](https://www.nuget.org/profiles/jjvanzon) | [GitHub](https://github.com/jjvanzon/JJ.Framework)
+- [🎹 Piano Playing](https://jjvanzon.github.io/Piano-Playing-Docs/)
+    - Rediscovering my piano hobby. Sharing what I can about it. [Web Site](https://jjvanzon.github.io/Piano-Playing-Docs/) | [GitHub](https://github.com/jjvanzon/Piano-Playing-Docs)
+
 ### Languages and Tools
 
 <p align="left">
@@ -29,15 +38,5 @@ Now doing things as a *hobby*.
 </p>
 
 [![Build Status](https://dev.azure.com/jjvanzon/JJs-Software/_apis/build/status/JJ.Framework%20Build?branchName=jj-framework-text-tests)](https://dev.azure.com/jjvanzon/JJs-Software/_build/latest?definitionId=26&branchName=jj-framework-text-tests)
-
-
-### Projects
-
-- [🔵 Circular Language Spec 🔶](https://jjvanzon.github.io/Circular-Language-Spec/)
-    - Have been walking around for a while with an idea for a *visual programming language* made from *shapes and lines*. [Web Site](https://jjvanzon.github.io/Circular-Language-Spec/) | [GitHub](https://github.com/jjvanzon/Circular-Language-Spec)
-- [🔩 JJ.Framework](https://www.nuget.org/profiles/jjvanzon)
-    - *Extensions* for the *.NET Framework*. Some of these things you might expect in the .NET Framework, but were missing there, so I programmed my own. [NuGet](https://www.nuget.org/profiles/jjvanzon) | [GitHub](https://github.com/jjvanzon/JJ.Framework)
-- [🎹 Piano Playing](https://jjvanzon.github.io/Piano-Playing-Docs/)
-    - Rediscovering my piano hobby. Sharing what I can about it. [Web Site](https://jjvanzon.github.io/Piano-Playing-Docs/) | [GitHub](https://github.com/jjvanzon/Piano-Playing-Docs)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jjvanzon&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
