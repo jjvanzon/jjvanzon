@@ -26,12 +26,12 @@ Now doing things as a *hobby*.
 
 ### Articles
 
-- [Circular Language Spec | Introduction](https://jjvanzon.github.io/Circular-Language-Spec/spec/introduction.html)
-    - Introduces the basics of the *Circular language*. Circular language is an idea for a computer programming language and a diagram notation for *visualizing computer code*.
 - [Circular Language Spec | Classes](https://jjvanzon.github.io/Circular-Language-Spec/spec/classes.html)
     - A *class* determines what *type of object* something is: a sort of *blue-print*, that describes behavior of other objects.
 - [Piano Playing | Goals](https://jjvanzon.github.io/Piano-Playing-Docs/goals.html)
     - Some goals I might have with my piano playing hobby.
+- [Circular Language Spec | Introduction](https://jjvanzon.github.io/Circular-Language-Spec/spec/introduction.html)
+    - Introduces the basics of the *Circular language*. Circular language is an idea for a computer programming language and a diagram notation for *visualizing computer code*.
 
 ### Languages & Tools
 
