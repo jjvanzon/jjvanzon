@@ -29,10 +29,6 @@ Now doing things as a *hobby*.
 
 ### Languages & Tools
 
-***Back-End*** mostly  
-***Front-End*** a little  
-***Design Patterns*** pretty good at
-
 <p align="left">
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a>
@@ -42,5 +38,11 @@ Now doing things as a *hobby*.
 </p>
 
 [![Build Status](https://dev.azure.com/jjvanzon/JJs-Software/_apis/build/status/JJ.Framework%20Build?branchName=jj-framework-text-tests)](https://dev.azure.com/jjvanzon/JJs-Software/_build/latest?definitionId=26&branchName=jj-framework-text-tests)
+
+***Software Architecture*** and  
+***Back-End*** mostly  
+***Front-End*** a little  
+
+### Contribution Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jjvanzon&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
