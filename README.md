@@ -27,7 +27,11 @@ Now doing things as a *hobby*.
 - [🎹 Piano Playing](https://jjvanzon.github.io/Piano-Playing-Docs/)
     - Rediscovering my piano hobby. Sharing what I can about it. [Web Site](https://jjvanzon.github.io/Piano-Playing-Docs/) | [GitHub](https://github.com/jjvanzon/Piano-Playing-Docs)
 
-### Languages and Tools
+### Languages & Tools
+
+***Back-End*** mostly  
+***Front-End*** a little  
+***Design Patterns*** quite familiar
 
 <p align="left">
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
