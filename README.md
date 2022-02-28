@@ -36,7 +36,7 @@ Now doing things as a *hobby*.
 ### Languages & Tools
 
 I used to be pretty good with ***Software Architecture*** and ***Back-End***.  
-Did ***Front-End*** a little bit too, but nothing fancy.
+Did ***Front-End*** a little bit too.
 
 <p align="left">
 <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
