@@ -24,6 +24,11 @@ Now doing things as a *hobby*.
 - [🎹 Piano Playing](https://jjvanzon.github.io/Piano-Playing-Docs/)
     - Rediscovering my piano hobby. Sharing what I can about it. [Web Site](https://jjvanzon.github.io/Piano-Playing-Docs/) | [GitHub](https://github.com/jjvanzon/Piano-Playing-Docs)
 
+### Piano
+
+- [🎶 Satie's Gnossienne Ⅰ](https://jjvanzon.github.io/Piano-Playing-Docs/satie-gnossienne-1/recording/)
+- [🎼 Chopin's Mazurka Op. 24, No. 2](https://jjvanzon.github.io/Piano-Playing-Docs/chopin-mazurka-op-24-no-2/recording/)
+
 ### Articles
 
 - [Circular Language Spec | Classes](https://jjvanzon.github.io/Circular-Language-Spec/spec/classes.html)
