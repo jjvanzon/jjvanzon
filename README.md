@@ -26,8 +26,8 @@ Now doing things as a *hobby*.
 
 ### Piano
 
-- [🎶 Satie's Gnossienne Ⅰ](https://jjvanzon.github.io/Piano-Playing-Docs/satie-gnossienne-1/recording/)
-- [🎼 Chopin's Mazurka Op. 24, No. 2](https://jjvanzon.github.io/Piano-Playing-Docs/chopin-mazurka-op-24-no-2/recording/)
+- [🎶 Satie's Gnossienne Ⅰ ⏯](https://jjvanzon.github.io/Piano-Playing-Docs/satie-gnossienne-1/recording/)
+- [🎼 Chopin's Mazurka Op. 24, No. 2 🎹](https://jjvanzon.github.io/Piano-Playing-Docs/chopin-mazurka-op-24-no-2/recording/)
 
 ### Articles
 
