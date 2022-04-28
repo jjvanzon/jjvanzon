@@ -52,9 +52,3 @@ Did ***Front-End*** a little bit too.
 </p>
 
 [![Build Status](https://dev.azure.com/jjvanzon/JJs-Software/_apis/build/status/JJ.Framework%20Build?branchName=jj-framework-text-tests)](https://dev.azure.com/jjvanzon/JJs-Software/_build/latest?definitionId=26&branchName=jj-framework-text-tests)
-
-### Stats
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=jjvanzon&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jjvanzon&title=Commits,Repositories&theme=gruvbox" alt="jjvanzon" /></a> </p>
