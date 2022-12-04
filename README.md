@@ -4,8 +4,8 @@ Hi there 👋, I'm JJ
 Former software professional with *autism*.  
 Now doing things as a *hobby*.
 
-- 🔭 I’m currently working on git migrations
-- 🌱 I’m currently learning to pace myself
+- 🔭 I’m currently working on git migrations.
+- 🌱 I’m currently learning to pace myself.
 - 📫 How to reach me: jjvanzon79@gmail.com
     <p align="left">
     <a href="https://twitter.com/@devjj79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@devjj79" height="30" width="40" /></a>
@@ -17,7 +17,7 @@ Now doing things as a *hobby*.
 
 ### Projects
 
-- [🎁 JJ.Framework 🧰](https://www.nuget.org/profiles/jjvanzon)
+- [🔩 JJ.Framework](https://www.nuget.org/profiles/jjvanzon)
     - *Extensions* for the *.NET Framework*. Some of these things you might expect in the .NET Framework, but were missing there, so I programmed my own. [NuGet](https://www.nuget.org/profiles/jjvanzon) | [GitHub](https://github.com/jjvanzon/JJ.Framework)
 - [💾 SaveText ☁](https://github.com/jjvanzon/JJ.SaveText)
     - Prototype app for software architecture & design patterns 🏛
