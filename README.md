@@ -4,8 +4,8 @@ Hi there 👋, I'm JJ
 Former software professional with *autism*.  
 Now doing things as a *hobby*.
 
-- 🔭 I’m currently working on [Circular Language Spec](https://jjvanzon.github.io/Circular-Language-Spec/)
-- 🌱 I’m currently learning: GitHub Pages | Technical Writing | [Piano Playing](https://jjvanzon.github.io/Piano-Playing-Docs/) | [MuseScore](https://musescore.com/user/42589871)
+- 🔭 I’m currently working on git migrations
+- 🌱 I’m currently learning to pace myself
 - 📫 How to reach me: jjvanzon79@gmail.com
     <p align="left">
     <a href="https://twitter.com/@devjj79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@devjj79" height="30" width="40" /></a>
@@ -17,17 +17,20 @@ Now doing things as a *hobby*.
 
 ### Projects
 
+- [🎁 JJ.Framework 🧰](https://www.nuget.org/profiles/jjvanzon)
+    - *Extensions* for the *.NET Framework*. Some of these things you might expect in the .NET Framework, but were missing there, so I programmed my own. [NuGet](https://www.nuget.org/profiles/jjvanzon) | [GitHub](https://github.com/jjvanzon/JJ.Framework)
+- [💾 SaveText ☁](https://github.com/jjvanzon/JJ.SaveText)
+    - Prototype app for software architecture & design patterns 🏛
+- [🎹 Piano Playing 🎶](https://jjvanzon.github.io/Piano-Playing-Docs/)
+    - Rediscovering my piano hobby. Sharing what I can about it. [Web Site](https://jjvanzon.github.io/Piano-Playing-Docs/) | [GitHub](https://github.com/jjvanzon/Piano-Playing-Docs)
 - [🔵 Circular Language Spec 🔶](https://jjvanzon.github.io/Circular-Language-Spec/)
     - Have been walking around for a while with an idea for a *visual programming language* made from *shapes and lines*. [Web Site](https://jjvanzon.github.io/Circular-Language-Spec/) | [GitHub](https://github.com/jjvanzon/Circular-Language-Spec)
-- [🔩 JJ.Framework](https://www.nuget.org/profiles/jjvanzon)
-    - *Extensions* for the *.NET Framework*. Some of these things you might expect in the .NET Framework, but were missing there, so I programmed my own. [NuGet](https://www.nuget.org/profiles/jjvanzon) | [GitHub](https://github.com/jjvanzon/JJ.Framework)
-- [🎹 Piano Playing](https://jjvanzon.github.io/Piano-Playing-Docs/)
-    - Rediscovering my piano hobby. Sharing what I can about it. [Web Site](https://jjvanzon.github.io/Piano-Playing-Docs/) | [GitHub](https://github.com/jjvanzon/Piano-Playing-Docs)
 
 ### Piano Playing
 
-- [🎶 Satie's Gnossienne Ⅰ](https://jjvanzon.github.io/Piano-Playing-Docs/satie-gnossienne-1/recording/)
-- [🎼 Chopin's Mazurka Op. 24, No. 2](https://jjvanzon.github.io/Piano-Playing-Docs/chopin-mazurka-op-24-no-2/recording/)
+- [🎶 Satie's Gnossienne Ⅰ](https://jjvanzon.github.io/Piano-Playing-Docs/satie-gnossienne-1/)
+- [🎼 Chopin's Mazurka Op. 24, No. 2](https://jjvanzon.github.io/Piano-Playing-Docs/chopin-mazurka-op-24-no-2/)
+- [🗿 Mozart - Sonata Facile K. 545 Part 1](https://jjvanzon.github.io/Piano-Playing-Docs/mozart-sonata-facile-part-1/)
 
 ### Articles
 
@@ -40,7 +43,7 @@ Now doing things as a *hobby*.
 
 ### Languages & Tools
 
-I used to be pretty good with ***Software Architecture*** and ***Back-End***.  
+I worked quite a bit on ***Software Architecture*** and ***Back-End***.  
 Did ***Front-End*** a little bit too.
 
 <p align="left">
@@ -51,4 +54,4 @@ Did ***Front-End*** a little bit too.
 </a>
 </p>
 
-[![Build Status](https://dev.azure.com/jjvanzon/JJs-Software/_apis/build/status/JJ.Framework%20Build?branchName=jj-framework-text-tests)](https://dev.azure.com/jjvanzon/JJs-Software/_build/latest?definitionId=26&branchName=jj-framework-text-tests)
+[![Build Status](https://dev.azure.com/jjvanzon/JJs-Software/_apis/build/status/JJ.Framework%20Build?branchName=master)](https://dev.azure.com/jjvanzon/JJs-Software/_build/latest?definitionId=26&branchName=jj-framework-text-tests)
