@@ -4,8 +4,8 @@ Hi there 👋, I'm JJ
 Former software professional with *autism*.  
 Now doing things as a *hobby*.
 
-- 🔭 I’m currently working on git migrations.
-- 🌱 I’m currently learning to pace myself.
+- 🔭 I’m currently working on *git migrations*.
+- 🌱 I’m currently learning to *pace myself*.
 - 📫 How to reach me: jjvanzon79@gmail.com
     <p align="left">
     <a href="https://twitter.com/@devjj79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@devjj79" height="30" width="40" /></a>
