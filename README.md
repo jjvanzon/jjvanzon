@@ -17,7 +17,7 @@ Now doing things as a *hobby*.
 
 ### Projects
 
-- [🔩 JJ.Framework](https://www.nuget.org/profiles/jjvanzon)
+- [🔩 JJ.Framework 🎁](https://www.nuget.org/profiles/jjvanzon)
     - *Extensions* for the *.NET Framework*. Some of these things you might expect in the .NET Framework, but were missing there, so I programmed my own. [NuGet](https://www.nuget.org/profiles/jjvanzon) | [GitHub](https://github.com/jjvanzon/JJ.Framework)
 - [💾 SaveText ☁](https://github.com/jjvanzon/JJ.SaveText)
     - Prototype app for software architecture & design patterns 🏛
