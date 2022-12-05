@@ -22,10 +22,10 @@ Now doing things as a *hobby*.
     - *Extensions* for the *.NET Framework*. Some of these things you might expect in the .NET Framework, but were missing there, so I programmed my own. [NuGet](https://www.nuget.org/profiles/jjvanzon) | [GitHub](https://github.com/jjvanzon/JJ.Framework)
 - [💾 SaveText ☁](https://github.com/jjvanzon/JJ.SaveText)
     - Prototype app for software architecture & design patterns 🏛
-- [🎹 Piano Playing 🎶](https://jjvanzon.github.io/Piano-Playing-Docs/)
-    - Rediscovering my piano hobby. Sharing what I can about it. [Web Site](https://jjvanzon.github.io/Piano-Playing-Docs/) | [GitHub](https://github.com/jjvanzon/Piano-Playing-Docs)
 - [🔵 Circular Language Spec 🔶](https://jjvanzon.github.io/Circular-Language-Spec/)
     - Have been walking around for a while with an idea for a *visual programming language* made from *shapes and lines*. [Web Site](https://jjvanzon.github.io/Circular-Language-Spec/) | [GitHub](https://github.com/jjvanzon/Circular-Language-Spec)
+- [🎹 Piano Playing 🎶](https://jjvanzon.github.io/Piano-Playing-Docs/)
+    - Rediscovering my piano hobby. Sharing what I can about it. [Web Site](https://jjvanzon.github.io/Piano-Playing-Docs/) | [GitHub](https://github.com/jjvanzon/Piano-Playing-Docs)
 
 ### Piano Playing
 
