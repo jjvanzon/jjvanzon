@@ -4,7 +4,7 @@ Hi there 👋, I'm JJ
 Former software professional with *autism*.  
 Now doing things as a *hobby*.
 
-- 🔭 I’m currently working on *git migrations*.
+- 🏗 I’m currently working on *JJ's Reference Architecture*.
 - 🌱 I’m currently learning to *pace myself*.
 - 📫 How to reach me: jjvanzon79@gmail.com
     <p align="left">
