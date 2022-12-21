@@ -4,8 +4,8 @@ Hi there 👋, I'm JJ
 Former software professional with *autism*.  
 Now doing things as a *hobby*.
 
-- 🏗 I’m currently working on *JJ's Reference Architecture*.
-- 🌱 I’m currently learning to *pace myself*.
+- 🏗 I’m currently working on [JJ's Reference Architecture](https://github.com/jjvanzon/JJs-Reference-Architecture)
+- 🌱 I’m currently learning to pace myself.
 - 📫 How to reach me: jjvanzon79@gmail.com
     <p align="left">
     <a href="https://jjvanzon.github.io/" target="blank" style="font-size:30px;">🌍</a>
