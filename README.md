@@ -56,3 +56,7 @@ Did ***Front-End*** a little bit too.
 </p>
 
 [![Build Status](https://dev.azure.com/jjvanzon/JJs-Software/_apis/build/status/JJ.Framework%20Build?branchName=master)](https://dev.azure.com/jjvanzon/JJs-Software/_build/latest?definitionId=26&branchName=jj-framework-text-tests)
+
+<!-- 
+![](https://raw.githubusercontent.com/jjvanzon/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+-->
