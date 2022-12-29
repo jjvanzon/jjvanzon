@@ -21,9 +21,9 @@ Now doing things as a *hobby*.
 - [🎹 Piano Playing 🎶](https://jjvanzon.github.io/Piano-Playing-Docs/)
     - Rediscovering my piano hobby. Sharing what I can about it. [Web Site](https://jjvanzon.github.io/Piano-Playing-Docs/) | [GitHub](https://github.com/jjvanzon/Piano-Playing-Docs)
 - [🔵 Circular Language Spec 🔶](https://jjvanzon.github.io/Circular-Language-Spec/)
-    - Have been walking around for a while with an idea for a *visual programming language* made from *shapes and lines*. [Web Site](https://jjvanzon.github.io/Circular-Language-Spec/) | [GitHub](https://github.com/jjvanzon/Circular-Language-Spec)
+    - Have been walking around for a while with an idea for a visual programming language made from shapes and lines. [Web Site](https://jjvanzon.github.io/Circular-Language-Spec/) | [GitHub](https://github.com/jjvanzon/Circular-Language-Spec)
 - [🔩 JJ.Framework 🎁](https://www.nuget.org/profiles/jjvanzon)
-    - *Extensions* for the *.NET Framework*. Some of these things you might expect in the .NET Framework, but were missing there, so I programmed my own. [NuGet](https://www.nuget.org/profiles/jjvanzon) | [GitHub](https://github.com/jjvanzon/JJ.Framework)
+    - Extensions for the .NET Framework. Some of these things you might expect in the .NET Framework, but were missing there, so I programmed my own. [NuGet](https://www.nuget.org/profiles/jjvanzon) | [GitHub](https://github.com/jjvanzon/JJ.Framework)
 - [💾 SaveText ☁](https://github.com/jjvanzon/JJ.SaveText)
     - Prototype app for software architecture & design patterns 🏛
 - [🏛 JJ's Reference Architecture 🏛](https://jjvanzon.github.io/JJs-Reference-Architecture/)
@@ -44,7 +44,7 @@ Now doing things as a *hobby*.
 - [Circular Language Spec | Introduction](https://jjvanzon.github.io/Circular-Language-Spec/spec/introduction.html)
     - Introduces the basics of the Circular language. Circular language is an idea for a computer programming language and a diagram notation for visualizing computer code.
 - [JJ's Reference Architecture | Introduction](https://jjvanzon.github.io/JJs-Reference-Architecture/introduction.html)
-    - Introductory article about `JJ's Reference Architecture`: documentatoin about software development techniques. Used as a base in several projects.
+    - Introductory article about JJ's Reference Architecture: documentatoin about software development techniques. Used as a base in several projects.
     
 ### Languages & Tools
 
