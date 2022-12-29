@@ -27,9 +27,7 @@ Now doing things as a *hobby*.
 - [💾 SaveText ☁](https://github.com/jjvanzon/JJ.SaveText)
     - Prototype app for software architecture & design patterns 🏛
 - [🏛 JJ's Reference Architecture 🏛](https://jjvanzon.github.io/JJs-Reference-Architecture/)
-    - About software development techniques.
-    - Used as a base in several home projects. 
-    - A variation of this was also used at a former employer of mine.
+    - About software development techniques. Used as a base in several home projects. A variation of this was also used at a former employer of mine.
 
 ### Piano Playing
 
@@ -40,12 +38,14 @@ Now doing things as a *hobby*.
 ### Articles
 
 - [Circular Language Spec | Classes](https://jjvanzon.github.io/Circular-Language-Spec/spec/classes.html)
-    - A *class* determines what *type of object* something is: a sort of *blue-print*, that describes behavior of other objects.
+    - A class determines what type of object something is: a sort of blue-print, that describes behavior of other objects.
 - [Piano Playing | Goals](https://jjvanzon.github.io/Piano-Playing-Docs/goals.html)
     - Some goals I might have with my piano playing hobby.
 - [Circular Language Spec | Introduction](https://jjvanzon.github.io/Circular-Language-Spec/spec/introduction.html)
-    - Introduces the basics of the *Circular language*. Circular language is an idea for a computer programming language and a diagram notation for *visualizing computer code*.
-
+    - Introduces the basics of the Circular language. Circular language is an idea for a computer programming language and a diagram notation for visualizing computer code.
+- [JJ's Reference Architecture | Introduction](https://jjvanzon.github.io/JJs-Reference-Architecture/introduction.html)
+    - Introductory article about `JJ's Reference Architecture`: documentatoin about software development techniques. Used as a base in several projects.
+    
 ### Languages & Tools
 
 I worked quite a bit on ***Software Architecture*** and ***Back-End***.  
