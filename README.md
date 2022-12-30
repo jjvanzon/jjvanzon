@@ -26,8 +26,8 @@ Now doing things as a *hobby*.
     - Extensions for the .NET Framework. Some of these things you might expect in the .NET Framework, but were missing there, so I programmed my own. [NuGet](https://www.nuget.org/profiles/jjvanzon) | [GitHub](https://github.com/jjvanzon/JJ.Framework)
 - [💾 SaveText ☁](https://github.com/jjvanzon/JJ.SaveText)
     - Prototype app for software architecture & design patterns 🏛
-- [🏛 JJ's Reference Architecture 🏛](https://jjvanzon.github.io/JJs-Reference-Architecture/)
-    - About software development techniques. Used as a base in several home projects. A variation of this was also used at a former employer of mine.
+- [🏛 JJ's Reference Architecture 🏛](https://jjvanzon.github.io/JJs-Reference-Architecture)
+    - About software development techniques. Used as a base in several home projects. A variation of this was also used at a former employer of mine. [Web Site](https://jjvanzon.github.io/JJs-Reference-Architecture) | [GitHub](https://github.com/jjvanzon/JJs-Reference-Architecture)
 
 ### Piano Playing
 
