@@ -23,7 +23,7 @@ Now doing things as a *hobby*.
 - [🔵 Circular Language Spec 🔶](https://jjvanzon.github.io/Circular-Language-Spec/)
     - Have been walking around for a while with an idea for a visual programming language made from shapes and lines. [Web Site](https://jjvanzon.github.io/Circular-Language-Spec/) | [GitHub](https://github.com/jjvanzon/Circular-Language-Spec)
 - [🔩 JJ.Framework 🎁](https://www.nuget.org/profiles/jjvanzon)
-    - Extensions for the .NET Framework. Some of these things you might expect in the .NET Framework, but were missing there, so I programmed my own. [NuGet](https://www.nuget.org/profiles/jjvanzon) | [GitHub](https://github.com/jjvanzon/JJ.Framework)
+    - Extensions for the .NET Framework. Some of these things you might expect in the .NET Framework, but were missing there, so I programmed my own. [NuGet](https://www.nuget.org/profiles/jjvanzon) | [GitHub](https://github.com/jjvanzon/JJ.Framework) | [Pre-Release](https://dev.azure.com/jjvanzon/JJs-Software/_artifacts/feed/JJs-Pre-Release-Package-Feed)
 - [💾 SaveText ☁](https://github.com/jjvanzon/JJ.SaveText)
     - Prototype app for software architecture & design patterns 🏛
 - [🏛 JJ's Reference Architecture 🏛](https://jjvanzon.github.io/JJs-Reference-Architecture)
