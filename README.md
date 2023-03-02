@@ -18,12 +18,12 @@ Now doing things as a *hobby*.
 
 ### Projects
 
-- [🎹 Piano Playing 🎶](https://jjvanzon.github.io/Piano-Playing-Docs/)
-    - Rediscovering my piano hobby. Sharing what I can about it. [Web Site](https://jjvanzon.github.io/Piano-Playing-Docs/) | [GitHub](https://github.com/jjvanzon/Piano-Playing-Docs)
-- [🏛 JJ's Reference Architecture 🏛](https://jjvanzon.github.io/JJs-Reference-Architecture)
+- [📲 JJ's Reference Architecture 🧑🏽‍💻](https://jjvanzon.github.io/JJs-Reference-Architecture)
     - About software development techniques. Used as a base in several home projects. A variation of this was also used at a former employer of mine. [Web Site](https://jjvanzon.github.io/JJs-Reference-Architecture) | [GitHub](https://github.com/jjvanzon/JJs-Reference-Architecture)
 - [🔵 Circular Language Spec 🔶](https://jjvanzon.github.io/Circular-Language-Spec/)
     - Have been walking around for a while with an idea for a visual programming language made from shapes and lines. [Web Site](https://jjvanzon.github.io/Circular-Language-Spec/) | [GitHub](https://github.com/jjvanzon/Circular-Language-Spec)
+- [🎹 Piano Playing 🎶](https://jjvanzon.github.io/Piano-Playing-Docs/)
+    - Rediscovering my piano hobby. Sharing what I can about it. [Web Site](https://jjvanzon.github.io/Piano-Playing-Docs/) | [GitHub](https://github.com/jjvanzon/Piano-Playing-Docs)
 - [🔩 JJ.Framework 🎁](https://www.nuget.org/profiles/jjvanzon)
     - Extensions for the .NET Framework. Some of these things you might expect in the .NET Framework, but were missing there, so I programmed my own. [NuGet](https://www.nuget.org/profiles/jjvanzon) | [GitHub](https://github.com/jjvanzon/JJ.Framework) | [Pre-Release](https://dev.azure.com/jjvanzon/JJs-Software/_artifacts/feed/JJs-Pre-Release-Package-Feed)
 - [💾 SaveText ☁](https://github.com/jjvanzon/JJ.SaveText)
