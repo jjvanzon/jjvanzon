@@ -4,7 +4,7 @@ Hi there 👋, I'm JJ
 Former software professional with *autism*.  
 Now doing things as a *hobby*.
 
-- 🏗 I’m currently working on [JJ's Reference Architecture](https://jjvanzon.github.io/JJs-Reference-Architecture/)
+- 🏗 I’m currently working on [JJ's Software Architecture](https://jjvanzon.github.io/JJs-Reference-Architecture/)
 - 🌱 I’m currently learning to pace myself.
 - 📫 How to reach me: jjvanzon79@gmail.com
     <p align="left">
@@ -43,8 +43,8 @@ Now doing things as a *hobby*.
     - Some goals I might have with my piano playing hobby.
 - [Circular Language Spec | Introduction](https://jjvanzon.github.io/Circular-Language-Spec/spec/introduction.html)
     - Introduces the basics of the Circular language. Circular language is an idea for a computer programming language and a diagram notation for visualizing computer code.
-- [JJ's Reference Architecture | Introduction](https://jjvanzon.github.io/JJs-Reference-Architecture/introduction.html)
-    - Introductory article about JJ's Reference Architecture: documentatoin about software development techniques. Used as a base in several projects.
+- [JJ's Software Architecture | Introduction](https://jjvanzon.github.io/JJs-Reference-Architecture/introduction.html)
+    - Introductory article about JJ's Software Architecture: documentatoin about software development techniques. Used as a base in several projects.
     
 ### Languages & Tools
 
