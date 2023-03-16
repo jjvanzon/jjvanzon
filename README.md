@@ -18,7 +18,7 @@ Now doing things as a *hobby*.
 
 ### Projects
 
-- [📲 JJ's Reference Architecture 🧑🏽‍💻](https://jjvanzon.github.io/JJs-Reference-Architecture)
+- [📲 JJ's Software Architecture 🧑🏽‍💻](https://jjvanzon.github.io/JJs-Reference-Architecture)
     - About software development techniques. Used as a base in several home projects. A variation of this was also used at a former employer of mine. [Web Site](https://jjvanzon.github.io/JJs-Reference-Architecture) | [GitHub](https://github.com/jjvanzon/JJs-Reference-Architecture)
 - [🔵 Circular Language Spec 🔶](https://jjvanzon.github.io/Circular-Language-Spec/)
     - Have been walking around for a while with an idea for a visual programming language made from shapes and lines. [Web Site](https://jjvanzon.github.io/Circular-Language-Spec/) | [GitHub](https://github.com/jjvanzon/Circular-Language-Spec)
