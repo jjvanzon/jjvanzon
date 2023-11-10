@@ -4,7 +4,7 @@ Hi there 👋, I'm JJ
 Former software professional with *autism*.  
 Now doing things as a *hobby*.
 
-- 🏗 I’m currently working on [JJ's Software Architecture](https://jjvanzon.github.io/JJs-Reference-Architecture/)
+- 🏗 I’m currently working on [🔵 Circular Language Spec 🔶](https://jjvanzon.github.io/Circular-Language-Spec/)
 - 🌱 I’m currently learning to pace myself.
 - 📫 How to reach me: jjvanzon79@gmail.com
     <p align="left">
@@ -18,10 +18,10 @@ Now doing things as a *hobby*.
 
 ### Projects
 
-- [📲 JJ's Software Architecture 🧑🏽‍💻](https://jjvanzon.github.io/JJs-Reference-Architecture)
-    - About software development techniques. Used as a base in several home projects. A variation of this was also used at a former employer of mine. [Web Site](https://jjvanzon.github.io/JJs-Reference-Architecture) | [GitHub](https://github.com/jjvanzon/JJs-Reference-Architecture)
 - [🔵 Circular Language Spec 🔶](https://jjvanzon.github.io/Circular-Language-Spec/)
     - Have been walking around for a while with an idea for a visual programming language made from shapes and lines. [Web Site](https://jjvanzon.github.io/Circular-Language-Spec/) | [GitHub](https://github.com/jjvanzon/Circular-Language-Spec)
+- [📲 JJ's Software Architecture 🧑🏽‍💻](https://jjvanzon.github.io/JJs-Reference-Architecture)
+    - About software development techniques. Used as a base in several home projects. A variation of this was also used at a former employer of mine. [Web Site](https://jjvanzon.github.io/JJs-Reference-Architecture) | [GitHub](https://github.com/jjvanzon/JJs-Reference-Architecture)
 - [🎶 Piano Playing 🎹](https://jjvanzon.github.io/Piano-Playing-Docs/)
     - Rediscovering my piano hobby. Sharing what I can about it. [Web Site](https://jjvanzon.github.io/Piano-Playing-Docs/) | [GitHub](https://github.com/jjvanzon/Piano-Playing-Docs)
 - [🔩 JJ.Framework 🎁](https://www.nuget.org/profiles/jjvanzon)
