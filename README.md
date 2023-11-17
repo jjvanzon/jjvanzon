@@ -18,22 +18,22 @@ Now doing things as a *hobby*.
 
 ### Projects
 
-- [🔵 Circular Language Spec 🔶](https://jjvanzon.github.io/Circular-Language-Spec/)
+- 🔵 [Circular Language Spec](https://jjvanzon.github.io/Circular-Language-Spec/) 🔶
     - Have been walking around for a while with an idea for a visual programming language made from shapes and lines. [Web Site](https://jjvanzon.github.io/Circular-Language-Spec/) | [GitHub](https://github.com/jjvanzon/Circular-Language-Spec)
-- [📲 JJ's Software Architecture 🧑🏽‍💻](https://jjvanzon.github.io/JJs-Reference-Architecture)
+- 📲 [JJ's Software Architecture](https://jjvanzon.github.io/JJs-Reference-Architecture) 🧑🏽‍💻
     - About software development techniques. Used as a base in several home projects. A variation of this was also used at a former employer of mine. [Web Site](https://jjvanzon.github.io/JJs-Reference-Architecture) | [GitHub](https://github.com/jjvanzon/JJs-Reference-Architecture)
-- [🎶 Piano Playing 🎹](https://jjvanzon.github.io/Piano-Playing-Docs/)
+- 🎶 [Piano Playing](https://jjvanzon.github.io/Piano-Playing-Docs/) 🎹
     - Rediscovering my piano hobby. Sharing what I can about it. [Web Site](https://jjvanzon.github.io/Piano-Playing-Docs/) | [GitHub](https://github.com/jjvanzon/Piano-Playing-Docs)
-- [🔩 JJ.Framework 🎁](https://www.nuget.org/profiles/jjvanzon)
+- 🔩 [JJ.Framework](https://www.nuget.org/profiles/jjvanzon) 🎁
     - Extensions for the .NET Framework. Some of these things you might expect in the .NET Framework, but were missing there, so I programmed my own. [NuGet](https://www.nuget.org/profiles/jjvanzon) | [GitHub](https://github.com/jjvanzon/JJ.Framework) | [Pre-Release](https://dev.azure.com/jjvanzon/JJs-Software/_artifacts/feed/JJs-Pre-Release-Package-Feed)
-- [💾 SaveText ☁](https://github.com/jjvanzon/JJ.SaveText)
+- 💾 [SaveText](https://github.com/jjvanzon/JJ.SaveText) ☁
     - Prototype app for software architecture & design patterns 🏛
 
 ### Piano Playing
 
-- [🎶 Satie's Gnossienne Ⅰ](https://jjvanzon.github.io/Piano-Playing-Docs/satie-gnossienne-1/)
-- [🎼 Chopin's Mazurka Op. 24, No. 2](https://jjvanzon.github.io/Piano-Playing-Docs/chopin-mazurka-op-24-no-2/)
-- [🗿 Mozart - Sonata Facile K. 545 Part 1](https://jjvanzon.github.io/Piano-Playing-Docs/mozart-sonata-facile-part-1/)
+- 🎶 [Satie's Gnossienne Ⅰ](https://jjvanzon.github.io/Piano-Playing-Docs/satie-gnossienne-1/)
+- 🎼 [Chopin's Mazurka Op. 24, No. 2](https://jjvanzon.github.io/Piano-Playing-Docs/chopin-mazurka-op-24-no-2/)
+- 🗿 [Mozart - Sonata Facile K. 545 Part 1](https://jjvanzon.github.io/Piano-Playing-Docs/mozart-sonata-facile-part-1/)
 
 ### Articles
 
