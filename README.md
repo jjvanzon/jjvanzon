@@ -4,7 +4,7 @@ Hi there 👋, I'm JJ
 Former software professional with *autism*.  
 Now doing things as a *hobby*.
 
-- 🏗 I’m currently working on [Circular Language Spec](https://jjvanzon.github.io/Circular-Language-Spec/)
+- 🏗 I’m currently working on [Music Production](https://github.com/jjvanzon/JJs-Music-Production-2020-2024)
 - 🌱 I’m currently learning to pace myself.
 - 📫 How to reach me: jjvanzon79@gmail.com
     <p align="left">
