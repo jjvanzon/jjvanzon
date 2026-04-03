@@ -1,11 +1,10 @@
 Hi there 👋, I'm JJ
 ====================
 
-Former software professional with *autism*.  
-Now doing things as a *hobby*.
+Former software professional. Now doing things as a hobby.
 
-- 🏗 I’m currently working on [Music Production](https://github.com/jjvanzon/JJs-Music-Production-2020-2024)
-- 🌱 I’m currently learning to pace myself.
+- 🏗 I'm currently working on [JJ.Framework](https://www.nuget.org/profiles/jjvanzon)
+- 🌱 I'm currently learning to pace myself.
 - 📫 How to reach me: jjvanzon79@gmail.com
     <p align="left">
     <a href="https://jjvanzon.github.io/" target="blank" style="font-size:30px;">🌍</a>
@@ -18,14 +17,14 @@ Now doing things as a *hobby*.
 
 ### Projects
 
+- 🔩 [JJ.Framework](https://www.nuget.org/profiles/jjvanzon) 🎁
+    - Extensions for the .NET Framework. Some of these things you might expect in the .NET Framework, but were missing there, so I programmed my own. [NuGet](https://www.nuget.org/profiles/jjvanzon) | [GitHub](https://github.com/jjvanzon/JJ.Framework) | [Pre-Release](https://dev.azure.com/jjvanzon/JJs-Software/_artifacts/feed/JJs-Pre-Release-Package-Feed)
 - 🔵 [Circular Language Spec](https://jjvanzon.github.io/Circular-Language-Spec/) 🔶
     - Have been walking around for a while with an idea for a visual programming language made from shapes and lines. [Web Site](https://jjvanzon.github.io/Circular-Language-Spec/) | [GitHub](https://github.com/jjvanzon/Circular-Language-Spec)
 - 📲 [JJ's Software Architecture](https://jjvanzon.github.io/JJs-Reference-Architecture) 🧑🏽‍💻
     - About software development techniques. Used as a base in several home projects. A variation of this was also used at a former employer of mine. [Web Site](https://jjvanzon.github.io/JJs-Reference-Architecture) | [GitHub](https://github.com/jjvanzon/JJs-Reference-Architecture)
 - 🎶 [Piano Playing](https://jjvanzon.github.io/Piano-Playing-Docs/) 🎹
     - Rediscovering my piano hobby. Sharing what I can about it. [Web Site](https://jjvanzon.github.io/Piano-Playing-Docs/) | [GitHub](https://github.com/jjvanzon/Piano-Playing-Docs)
-- 🔩 [JJ.Framework](https://www.nuget.org/profiles/jjvanzon) 🎁
-    - Extensions for the .NET Framework. Some of these things you might expect in the .NET Framework, but were missing there, so I programmed my own. [NuGet](https://www.nuget.org/profiles/jjvanzon) | [GitHub](https://github.com/jjvanzon/JJ.Framework) | [Pre-Release](https://dev.azure.com/jjvanzon/JJs-Software/_artifacts/feed/JJs-Pre-Release-Package-Feed)
 - 💾 [SaveText](https://github.com/jjvanzon/JJ.SaveText) ☁
     - Prototype app for software architecture & design patterns 🏛
 
@@ -37,14 +36,14 @@ Now doing things as a *hobby*.
 
 ### Articles
 
+- [JJ's Software Architecture | Introduction](https://jjvanzon.github.io/JJs-Reference-Architecture/introduction.html)
+    - Introductory article about JJ's Software Architecture: documentatoin about software development techniques. Used as a base in several projects.
 - [Circular Language Spec | Classes](https://jjvanzon.github.io/Circular-Language-Spec/spec/classes.html)
     - A class determines what type of object something is: a sort of blue-print, that describes behavior of other objects.
 - [Piano Playing | Goals](https://jjvanzon.github.io/Piano-Playing-Docs/goals.html)
     - Some goals I might have with my piano playing hobby.
 - [Circular Language Spec | Introduction](https://jjvanzon.github.io/Circular-Language-Spec/spec/introduction.html)
     - Introduces the basics of the Circular language. Circular language is an idea for a computer programming language and a diagram notation for visualizing computer code.
-- [JJ's Software Architecture | Introduction](https://jjvanzon.github.io/JJs-Reference-Architecture/introduction.html)
-    - Introductory article about JJ's Software Architecture: documentatoin about software development techniques. Used as a base in several projects.
     
 ### Languages & Tools
 
@@ -59,7 +58,7 @@ Did ***Front-End*** a little bit too.
 </a>
 </p>
 
-[![Build Status](https://dev.azure.com/jjvanzon/JJs-Software/_apis/build/status/JJ.Framework%20Build?branchName=master)](https://dev.azure.com/jjvanzon/JJs-Software/_build/latest?definitionId=26&branchName=jj-framework-text-tests)
+[![Build Status](https://dev.azure.com/jjvanzon/JJs-Software/_apis/build/status/JJ.Framework%20Build?branchName=main)](https://dev.azure.com/jjvanzon/JJs-Software/_build/latest?definitionId=26&branchName=main)
 
 <!-- 
 ![](https://raw.githubusercontent.com/jjvanzon/github-stats/master/generated/overview.svg#gh-dark-mode-only)
