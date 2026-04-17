@@ -5,8 +5,9 @@ Former software professional. Now doing things as a hobby.
 
 - 🏗 I'm currently working on [JJ.Framework](https://www.nuget.org/profiles/jjvanzon)
 - 🌱 I'm currently learning to pace myself.
-- 📫 How to reach me: jjvanzon79@gmail.com  
-    <table style="padding:4px">
+- 📫 How to reach me: jjvanzon79@gmail.com
+
+    <table>
     <tr>
     <td><a href="https://jjvanzon.github.io/" target="blank" style="font-size:40px;">🌍</a></td>
     <td><a href="https://twitter.com/@devjj79" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@devjj79" height="30" width="40" /></a></td>
